@@ -6,7 +6,7 @@ namespace netcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Donny Gerberink!");
+            Console.WriteLine("Hello Hallo Donny Gerberink!");
         }
     }
 }
